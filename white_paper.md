@@ -14,13 +14,13 @@
 ![ZILLIZAnalytics](./assets/InfiniAnalytics.jpg)
  **ZILLIZ Analytics 平台包括：**
 
- 1. MegaWise 核心数据计算引擎
+ 1. MegaWise 数据分析引擎
  2. Picasso 图形渲染引擎
  3. Infini 可视化交互分析界面
 
 
 
-## MegaWise 核心数据计算引擎
+## MegaWise 数据分析引擎
 
 ### 对 SQL 的原生支持
 
