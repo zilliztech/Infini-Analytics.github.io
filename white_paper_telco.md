@@ -26,7 +26,7 @@ ZILLIZ Analytics 具有完整的自主知识产权，并且率先使用图形处
 3. Infini 可视化交互分析界面
 
 
-## MegaWise 核心数据分析引擎
+## MegaWise 数据分析引擎
 
 ### 对 SQL 的原生支持
 
@@ -215,4 +215,4 @@ ZILLIZ Analytics 提供了能够解决物流行业各种大数据数据分析需
 
 以上各种优势综合起来加速信息处理，从而更好为物流行业的领导者们提供更好的决策支持。
 
-更多信息欢迎访问我们的网站：https://infini-analytics.github.io/
+更多信息欢迎访问我们的网站：https://www.zilliz.com
