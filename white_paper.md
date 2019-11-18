@@ -76,7 +76,7 @@ MegaWise 的矢量化查询技术可以同时应用到 CPU 。现代 CPU 普遍�
 
 > 友商数据引用自：https://tech.marksblogg.com/benchmarks.html
 
-- 性能数据
+- 性能数据（单位：秒）
 
 |              | Q1   | Q2   | Q3   | Q4    |
 | :------------: | ----: | ----: | ----: | -----: |
@@ -99,7 +99,7 @@ MegaWise 的矢量化查询技术可以同时应用到 CPU 。现代 CPU 普遍�
 
 > 友商数据引用自：https://tech.marksblogg.com/benchmarks.html
 
-- 性能数据
+- 性能数据（单位：秒）
 
 |              | Q1   | Q2   | Q3   | Q4    |
 | :------------: | ----: | ----: | ----: | -----: |
